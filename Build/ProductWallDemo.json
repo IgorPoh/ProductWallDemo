@@ -1,0 +1,16 @@
+{
+"companyName": "PokhvishchevIgor",
+"productName": "WallObject",
+"productVersion": "0.1",
+"dataUrl": "ProductWallDemo.data.unityweb",
+"wasmCodeUrl": "ProductWallDemo.wasm.code.unityweb",
+"wasmFrameworkUrl": "ProductWallDemo.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.8f1"
+}
